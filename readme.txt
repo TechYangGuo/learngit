@@ -9,3 +9,4 @@ Creating a new branch is quick and simple.
 123
 for rebase to test . 3
 add modefied for rebase. 1
+add modefied for rebase. 2
